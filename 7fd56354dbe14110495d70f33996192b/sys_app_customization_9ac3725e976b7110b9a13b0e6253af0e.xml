@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_customization">
+    <sys_app_customization action="INSERT_OR_UPDATE">
+        <sys_created_by>davidsu</sys_created_by>
+        <sys_created_on>2024-01-07 20:48:07</sys_created_on>
+        <sys_id>9ac3725e976b7110b9a13b0e6253af0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>davidsu</sys_updated_by>
+        <sys_updated_on>2024-01-07 20:48:07</sys_updated_on>
+        <vendor_app display_value="Tanium Vulnerability Response Integration">7fd56354dbe14110495d70f33996192b</vendor_app>
+        <vendor_app_version>1.3.0</vendor_app_version>
+        <version>1.0.0</version>
+        <war_version>glide-vancouver-07-06-2023__patch4-hotfix1-11-16-2023_12-11-2023_1631.zip</war_version>
+    </sys_app_customization>
+</record_update>

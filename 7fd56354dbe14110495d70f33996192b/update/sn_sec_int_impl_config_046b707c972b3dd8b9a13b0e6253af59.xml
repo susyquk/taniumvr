@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_sec_int_impl_config">
+    <sn_sec_int_impl_config action="INSERT_OR_UPDATE">
+        <configuration display_value="batch_count">c75c5b95dba90110b4a2ce4e13961907</configuration>
+        <implementation display_value="Tanium Vulnerability Response Integration Instance">098c5b95dba90110b4a2ce4e1396190b</implementation>
+        <password_value/>
+        <sys_class_name>sn_sec_int_impl_config</sys_class_name>
+        <sys_created_by>davidsu</sys_created_by>
+        <sys_created_on>2024-01-02 20:11:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>046b707c972b3dd8b9a13b0e6253af59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tanium Vulnerability Response Integration" source="x_taniu_tanium_vr">7fd56354dbe14110495d70f33996192b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tanium Vulnerability Response Integration">7fd56354dbe14110495d70f33996192b</sys_scope>
+        <sys_update_name>sn_sec_int_impl_config_046b707c972b3dd8b9a13b0e6253af59</sys_update_name>
+        <sys_updated_by>davidsu</sys_updated_by>
+        <sys_updated_on>2024-01-02 20:11:16</sys_updated_on>
+        <value>150</value>
+    </sn_sec_int_impl_config>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Tanium Vulnerability Response Integration">7fd56354dbe14110495d70f33996192b</claim_owner_scope>
+        <claim_timestamp>18ce5aecd730000001</claim_timestamp>
+        <metadata_update_name>sn_sec_int_impl_config_046b707c972b3dd8b9a13b0e6253af59</metadata_update_name>
+        <previous_claim_app_version>1.3.0</previous_claim_app_version>
+        <previous_claim_name>Tanium Vulnerability Response Integration</previous_claim_name>
+        <previous_claim_scope>7fd56354dbe14110495d70f33996192b</previous_claim_scope>
+        <sys_created_by>davidsu</sys_created_by>
+        <sys_created_on>2024-01-07 20:48:07</sys_created_on>
+        <sys_id>9ac3725e976b7110b9a13b0e6253af1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>davidsu</sys_updated_by>
+        <sys_updated_on>2024-01-07 20:48:07</sys_updated_on>
+    </sys_claim>
+</record_update>
